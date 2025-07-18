@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: rebeccapurple;
+    color: white;
+}
+
+h1 {
+    color: #faf7f7;
+    text-align: center;
+    margin-top: 50px;
+}
